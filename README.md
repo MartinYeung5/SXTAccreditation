@@ -4,6 +4,14 @@ Welcome to the the [Space and Time Accreditation](https://docs.spaceandtime.io/d
 ## Instructions: 
 
 ## My Work:
+### Level 1: Intro to Space and Time
+* Account Creation
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/13.png?raw=true)
+
+* My Subscription
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/14.png?raw=true)
+
+
 ### Level 3: Building Apps - Install the CLI
 * using Windows WSL
 
