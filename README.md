@@ -147,3 +147,5 @@ where time_stamp between '2024-01-01' and  '2024-01-31'
 
 * Run a Query with API Key
 ![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/20.png?raw=true)
+
+* sxtcli biscuit generate wildcard
