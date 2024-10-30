@@ -129,3 +129,20 @@ SQL="Select cast(time_stamp as date) as Block_Date, count(*) as Block_Count from
 
 submit work
 * git checkout MartinYeung5
+
+
+#### Using API Keys
+```
+Select 'SUI' as Name, count(*)/86400.00 as TPS from SUI.TRANSACTIONS
+where time_stamp between '2024-01-01' and  '2024-01-31'
+  union all 
+Select 'POLYGON' as Name, count(*)/86400.00 as TPS from POLYGON.TRANSACTIONS
+where time_stamp between '2024-01-01' and  '2024-01-31'
+  union all 
+Select 'ETHEREUM' as Name, count(*)/86400.00 as TPS from ETHEREUM.TRANSACTIONS
+where time_stamp between '2024-01-01' and  '2024-01-31'
+```
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/19.png?raw=true)
+
+
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/20.png?raw=true)
