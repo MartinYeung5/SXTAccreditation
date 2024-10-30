@@ -1,7 +1,7 @@
 curl --request POST \
      --url https://proxy.api.spaceandtime.dev/v1/sql \
      --header 'accept: application/json' \
-     --header 'apikey: sxt_nJ8kNTfp1k_K1DLvOsYY330wIUUmkJouzAd' \
+     --header 'apikey: sxt_nJ8kNTfp1k_K1DLvOsYY330wI...' \
      --header 'content-type: application/json' \
      --data @- <<EOF
 {
