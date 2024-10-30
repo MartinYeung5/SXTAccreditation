@@ -5,6 +5,11 @@ Welcome to the the [Space and Time Accreditation](https://docs.spaceandtime.io/d
 ## My Details
 * Space and Time App Username: yeung2024
 * User Wallet: 0x39E95F83F2d991664cAd2959f4bD7Fb517462aB6
+* Dashboard prize: Dashboard URL
+https://app.spaceandtime.ai/dashboards/public/aptosstatisitc2024
+* Data View prize:
+https://app.spaceandtime.ai/queries/bd1cc990-4d90-418b-8646-252c32def5cb/thenumberofsmartcontractonaptos
+
 
 ## My Work:
 ### Level 1: Intro to Space and Time
