@@ -8,7 +8,7 @@ Welcome to the the [Space and Time Accreditation](https://docs.spaceandtime.io/d
 * Account Creation - My account name: yeung2024
 ![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/13.png?raw=true)
 
-* My Subscription
+* Create a Subscription
 ![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/14.png?raw=true)
 
 
