@@ -150,23 +150,4 @@ where time_stamp between '2024-01-01' and  '2024-01-31'
 
 * sxtcli biscuit generate wildcard
 
-```
-CREATE_SQL=$(cat << EOM
 
-  CREATE TABLE SXTTemp.Test_$USERID
-  ( MyID              INTEGER
-  , MyBigint          BIGINT
-  , MyText            VARCHAR
-  , MyDate            DATE
-  , MyBoolean         BOOLEAN
-  , MyDecimal         DECIMAL(18,2)
-  , MyFloat           FLOAT
-  , MyJson            JSONB
-  , MyTimestamp       TIMESTAMP
-  , primary key(MyID)
-  )
-  with "public_key=$RESOURCE_PUBLIC_KEY,access_type=permissioned"
-
-EOM
-)
-```
