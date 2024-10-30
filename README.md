@@ -28,7 +28,7 @@ Welcome to the the [Space and Time Accreditation](https://docs.spaceandtime.io/d
 ```
 select * from SXT_DAPP_VIEWS.Ethereum_vs_Polygon_ERC20Token_yeung2024
 ```
-* link:
+* my query link:
 https://app.spaceandtime.ai/queries/eae6af98-05ea-4134-b9fa-7be0fbee02dd/tokencount20241030ethandpoly
 
 ![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/17.png?raw=true)
