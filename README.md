@@ -12,8 +12,17 @@ Welcome to the the [Space and Time Accreditation](https://docs.spaceandtime.io/d
 ![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/14.png?raw=true)
 
 ### Level 2: Data and Queries
+#### Create Queries and Charts
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/15.png?raw=true)
 
-### Level 3: Building Apps - Install the CLI
+#### Create a Dashboard
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/16.png?raw=true)
+
+#### Create Your Own View
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/17.png?raw=true)
+
+### Level 3: Building Apps
+#### Install the CLI
 * using Windows WSL
 
 * alias sxtcli='java -jar C:/"Program Files"/SXTCLI/sxtcli-0.0.8.jar'
