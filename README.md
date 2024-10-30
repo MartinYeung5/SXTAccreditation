@@ -142,7 +142,8 @@ where time_stamp between '2024-01-01' and  '2024-01-31'
 Select 'ETHEREUM' as Name, count(*)/86400.00 as TPS from ETHEREUM.TRANSACTIONS
 where time_stamp between '2024-01-01' and  '2024-01-31'
 ```
+* Create a New API Key
 ![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/19.png?raw=true)
 
-
+* Run a Query with API Key
 ![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/20.png?raw=true)
