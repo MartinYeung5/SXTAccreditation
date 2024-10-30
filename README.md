@@ -22,6 +22,7 @@ Welcome to the the [Space and Time Accreditation](https://docs.spaceandtime.io/d
 
 #### Create Your Own View
 * my view link1: https://app.spaceandtime.ai/queries/bd1cc990-4d90-418b-8646-252c32def5cb/null
+* my view link2: https://app.spaceandtime.ai/queries/bd1cc990-4d90-418b-8646-252c32def5cb/thenumberofsmartcontractonaptos
 ![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/17.png?raw=true)
 
 ### Level 3: Building Apps
