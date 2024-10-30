@@ -10,27 +10,27 @@ Welcome to the the [Space and Time Accreditation](https://docs.spaceandtime.io/d
 * alias sxtcli='java -jar C:/"Program Files"/SXTCLI/sxtcli-0.0.8.jar'
 
 * apt install openjdk-22-jre-headless
-![alt text](https://github.com/MartinYeung5/20241028_chainlink/blob/main/images/1.png?raw=true)
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/main/images/1.png?raw=true)
 
 * snap search openjdk
-![alt text](https://github.com/MartinYeung5/20241028_chainlink/blob/main/images/2.png?raw=true)
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/main/images/2.png?raw=true)
 
 * apt install openjdk-23-jre-headless
 * sudo apt install openjdk-23-jre-headless
-![alt text](https://github.com/MartinYeung5/20241028_chainlink/blob/main/images/3.png?raw=true)
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/main/images/3.png?raw=true)
 
 * sudo apt update && sudo apt upgrade -y
-![alt text](https://github.com/MartinYeung5/20241028_chainlink/blob/main/images/4.png?raw=true)
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/main/images/4.png?raw=true)
 
 * apt install openjdk-22-jre-headless
-![alt text](https://github.com/MartinYeung5/20241028_chainlink/blob/main/images/5.png?raw=true)
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/main/images/5.png?raw=true)
 
 * sudo apt-get install openjdk-17-jre
-![alt text](https://github.com/MartinYeung5/20241028_chainlink/blob/main/images/6.png?raw=true)
-![alt text](https://github.com/MartinYeung5/20241028_chainlink/blob/main/images/7.png?raw=true)
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/main/images/6.png?raw=true)
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/main/images/7.png?raw=true)
 
 * java -version
-![alt text](https://github.com/MartinYeung5/20241028_chainlink/blob/main/images/8.png?raw=true)
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/main/images/8.png?raw=true)
 
 * open  ~/.bashrc, and add the following script
 ```
@@ -39,10 +39,10 @@ alias sxtcli="java -jar $HOME/SXTCLI/sxtcli-0.0.8.jar"
 
 testing
 * sxtcli version
-![alt text](https://github.com/MartinYeung5/20241028_chainlink/blob/main/images/9.png?raw=true)
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/main/images/9.png?raw=true)
 
 * sxtcli authenticate keypair
-![alt text](https://github.com/MartinYeung5/20241028_chainlink/blob/main/images/10.png?raw=true)
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/main/images/10.png?raw=true)
 
 
 * sxtcli authenticate keychain
@@ -54,7 +54,7 @@ add \
 --privateKey="o0aLj24+PjNcrc3DhHagU1cSBOPUNW7Uo..." \
 --publicKey="mCcS6sabazfVZG4rMuMPx12R..."
 ```
-![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/main/images/10.png?raw=true)
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/main/images/11.png?raw=true)
 
 * login
 ```
@@ -88,6 +88,7 @@ SQL="Select cast(time_stamp as date) as Block_Date, count(*) as Block_Count from
 ```
 
 * sxtcli sql --url="https://api.spaceandtime.dev" --accessToken=$ACCESS_TOKEN --sqlText="$SQL"
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/main/images/12.png?raw=true)
 
 submit work
 * git checkout MartinYeung5
