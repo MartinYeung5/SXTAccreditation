@@ -16,6 +16,7 @@ Welcome to the the [Space and Time Accreditation](https://docs.spaceandtime.io/d
 ![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/15.png?raw=true)
 
 #### Create a Dashboard
+* my dashboard link: https://app.spaceandtime.ai/dashboards/public/aptosstatisitc2024
 ![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/16.png?raw=true)
 
 #### Create Your Own View
