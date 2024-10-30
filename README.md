@@ -33,6 +33,9 @@ https://app.spaceandtime.ai/queries/eae6af98-05ea-4134-b9fa-7be0fbee02dd/tokenco
 
 ![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/17.png?raw=true)
 
+#### Smart Contract Indexing (SCI) Queries
+https://app.spaceandtime.ai/queries/2e03d2da-2bba-4c8c-9ea7-120b38122fed/null
+
 ### Level 3: Building Apps
 #### Install the CLI
 * using Windows WSL
