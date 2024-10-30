@@ -34,7 +34,11 @@ https://app.spaceandtime.ai/queries/eae6af98-05ea-4134-b9fa-7be0fbee02dd/tokenco
 ![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/17.png?raw=true)
 
 #### Smart Contract Indexing (SCI) Queries
+```
+select * from AAVE_V3_ETHEREUM.POOL_EVT_FLASHLOAN
+```
 https://app.spaceandtime.ai/queries/2e03d2da-2bba-4c8c-9ea7-120b38122fed/null
+![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/18.png?raw=true)
 
 ### Level 3: Building Apps
 #### Install the CLI
