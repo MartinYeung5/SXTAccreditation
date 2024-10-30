@@ -11,6 +11,7 @@ Welcome to the the [Space and Time Accreditation](https://docs.spaceandtime.io/d
 * Create a Subscription
 ![alt text](https://github.com/MartinYeung5/SXTAccreditation/blob/MartinYeung5/images/14.png?raw=true)
 
+### Level 2: Data and Queries
 
 ### Level 3: Building Apps - Install the CLI
 * using Windows WSL
